@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jared-muir
-- 👀 I’m interested in ... practicing cybersecurity, fullstack development, cloud development
-- 🌱 I’m currently learning ... java, python, bootstrap, css, html, cybersecurity fundamentals
+- 👀 I’m interested in ... practicing security, cloud development, developing coding skills
+- 🌱 I’m currently learning ... java, python, and taking computer science course
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email me at jared.muir@outlook.com
 
